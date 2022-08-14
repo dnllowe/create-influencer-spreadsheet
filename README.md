@@ -9,7 +9,7 @@ This is a script I used to quickly gather info on influencers (specifically YouT
 You can run the script as-is to get data on influencers for "indie games" from Woovit:
 
 1. If you make any changes, use `tsc` from the command line to complie the new JavaScript code
-1. `node fetch-influencers.js` to fetch influencers from the API and create your spreadsheet (`influencers.csv`)
+1. Run `node fetch-influencers.js` from the command line to fetch influencers from the API and create your spreadsheet (`influencers.csv`)
 1. Profit
 
 ## How does it work?
